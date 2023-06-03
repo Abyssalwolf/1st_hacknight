@@ -4,10 +4,9 @@
 # Simple Counter
 This is a simple counter created using pynecone.
 ## Team members
-1. CaptainSparrow2003(https://github.com/TH-Activities/saturday-hack-night-template)
-2. sachin179(https://github.com/TH-Activities/saturday-hack-night-template)
-## Link to product walkthrough
-[link to video](Link Here)
+1. CaptainSparrow2003()
+2. sachin179()
+3. AbyssalWolf(https://github.com/Abyssalwolf/)
 ## How it Works ?
 1. Explaining the working of project
 2. Embed video of project demo
@@ -17,3 +16,4 @@ Library Name - Version
 Instructions for setting up project
 ## How to Run
 Instructions for running
+
