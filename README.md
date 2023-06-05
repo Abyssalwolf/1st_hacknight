@@ -4,9 +4,15 @@
 # Simple Counter
 This is a simple counter created using pynecone.
 ## Team members
-1. CaptainSparrow2003(https://github.com/CaptainSparrow2003)
-2. sachin179(https://github.com/sachin179)
-3. AbyssalWolf(https://github.com/Abyssalwolf/)
+1. Nandana S(https://github.com/CaptainSparrow2003)
+2. Sachin Manoj(https://github.com/sachin179)
+3. Sebin Thomas(https://github.com/Abyssalwolf/)
+## Project Walkthrough
+
+
+https://github.com/Abyssalwolf/1st_hacknight/assets/117766338/860034b6-74bd-4d1c-8742-fa0523e929d5
+
+
 ## How it Works ?
 The website contains a counter which has options for incrementation and decrementaion. A number is displayed which shows the current count. There also exists a randomize button than changes the current number to one that lies between the range -100 to 100.
 ## Libraries used
