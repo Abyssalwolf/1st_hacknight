@@ -8,8 +8,7 @@ This is a simple counter created using pynecone.
 2. sachin179(https://github.com/sachin179)
 3. AbyssalWolf(https://github.com/Abyssalwolf/)
 ## How it Works ?
-1. Explaining the working of project
-2. Embed video of project demo
+1. The program uses random library to create a random number which can be increased or decreased using the increment and decrement button on the sides respectively.
 ## Libraries used
 random
 pynecone- 0.1.32
