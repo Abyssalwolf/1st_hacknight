@@ -8,10 +8,11 @@ This is a simple counter created using pynecone.
 2. sachin179(https://github.com/sachin179)
 3. AbyssalWolf(https://github.com/Abyssalwolf/)
 ## How it Works ?
-1. The program uses random library to create a random number which can be increased or decreased using the increment and decrement button on the sides respectively.
+The website contains a counter which has options for incrementation and decrementaion. A number is displayed 
 ## Libraries used
-random
-pynecone- 0.1.32
+random\n
+pynecone- 0.1.32\n
+Python 3.11.0
 ## How to configure
 Instructions for setting up project
 ## How to Run
