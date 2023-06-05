@@ -10,9 +10,9 @@ This is a simple counter created using pynecone.
 ## How it Works ?
 The website contains a counter which has options for incrementation and decrementaion. A number is displayed 
 ## Libraries used
-random\n
-pynecone- 0.1.32\n
-Python 3.11.0
+1. Python 3.11.0
+2. pynecone- 0.1.32
+3. random
 ## How to configure
 Instructions for setting up project
 ## How to Run
