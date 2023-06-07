@@ -4,9 +4,9 @@
 # Simple Counter
 This is a simple counter created using pynecone.
 ## Team members
-1. Nandana S(https://github.com/CaptainSparrow2003)
-2. Sachin Manoj(https://github.com/sachin179)
-3. Sebin Thomas(https://github.com/Abyssalwolf/)
+1. Nandana S (https://github.com/CaptainSparrow2003)
+2. Sachin Manoj (https://github.com/sachin179)
+3. Sebin Thomas (https://github.com/Abyssalwolf/)
 ## Project Walkthrough
 
 
